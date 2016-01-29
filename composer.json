@@ -1,0 +1,13 @@
+{
+  "name": "diwait/weixin-sdk",
+  "type": "library",
+  "description": "wechat sdk",
+  "license": "Apache",
+  "authors": [
+    {
+      "name": "David",
+      "email": "diwait@hotmail",
+      "role": "Developer"
+    }
+  ]
+}
